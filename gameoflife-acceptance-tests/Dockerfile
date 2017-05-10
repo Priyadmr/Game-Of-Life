@@ -19,6 +19,4 @@ ENV MAVEN_HOME /opt/maven
 
 EXPOSE 9090
 
-COPY script.sh /script.sh
-
-CMD ["/script.sh"]
+CMD ["mvn"]

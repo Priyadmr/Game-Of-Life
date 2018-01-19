@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- This is just for testing purpose -->
 <testsuite errors="0" failures="0" hostname="tuatara-2.local" name="com.wakaleo.gameoflife.domain.WhenYouCreateACell"
-           tests="6" time="0.119" timestamp="2010-12-04T19:14:28">
+           tests="6" time="0.119" timestamp="2018-01-04T09:24:25">
     <properties/>
     <testcase classname="com.wakaleo.gameoflife.domain.WhenYouCreateACell"
               name="aLiveCellShouldBeRepresentedByAnAsterisk" time="0.0090"/>
